@@ -1,10 +1,11 @@
-Experiment No. 5
+# Title : Decision Making Statement 
 
-Aim : To study and implement decision-making statements in C++.
+# Aim : 
+To study and implement decision-making statements in C++.
 
-Tools Required : Visual Studio Code (VS Code)
+# Tools Required : Visual Studio Code (VS Code)
 
-Theory:
+# Theory:
 
 Decision-making statements allow the program to make decisions and execute different code blocks based on conditions.
 
@@ -58,7 +59,7 @@ Used to exit from a loop or switch block.
 
 Executes when no case in switch matches.
 
-Conclusion:
+# Conclusion:
 
 By completing this experiment:
 
